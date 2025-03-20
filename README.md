@@ -2,7 +2,7 @@
 # 🎮 Portfolio - Unity Developer  
 👋 Hi! I'm a game developer specializing in Unity and C#. I enjoy learning new technologies, experimenting with game mechanics, and improving my skills.  
 🔹 **Featured Projects**  
-- 🕹️ **[Monkey Cooking 2D Game]((https://github.com/Pukpuk5555/huhu-hauwh.git))**
+- 🕹️ **[Monkey Cooking 2D Game]([(https://github.com/Pukpuk5555/huhu-hauwh.git)])**
 
 <!--
 **Pukpuk5555/pukpuk5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
