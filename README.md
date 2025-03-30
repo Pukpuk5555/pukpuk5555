@@ -11,7 +11,7 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 ## 🎮 Featured Projects
 ### 🐵Monkey Cooking 2D Game: "Huhu-Huawh!"
 This project is part of the GI383 Idea Generation course in the 3rd year, 2nd semester.
-<br> 🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**, 📺 **[Prototype](https://drive.google.com/drive/folders/1_GMCltrAO_UVvD2kRtQFPWKDfZCt8_m0?usp=sharing)**
+<br> 🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**, 📑 **[GDD](https://docs.google.com/spreadsheets/d/15tPipG-mRfUMZ8x1WUuvt8T3DsfONBVqzJjid0tHkHk/edit?usp=sharing)**, 📺 **[Prototype](https://drive.google.com/drive/folders/1_GMCltrAO_UVvD2kRtQFPWKDfZCt8_m0?usp=sharing)**
 - **Genre:** Mimi-Simuration 
 - **Features:** Drag&Drop, Alchemy&Transform, Time Management  
 - **Tech:** Unity, C#
