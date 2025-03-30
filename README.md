@@ -1,12 +1,21 @@
-👋 Hi! I'm a game developer specializing in Unity and C#. I enjoy learning new technologies, experimenting with game mechanics, and improving my skills.  
+# 👋 Hi! 
+
+## 🎮 About Me
+I'm Satang, but my full name is Jidapa Petchkamnerd and I'm Thai.
+<br> I am studying in the School of Information Technology and Innovation, majoring in Game and Interactive Media at Bangkok University.
+<br> I enjoy learning new technologies, experimenting with game mechanics, and improving my skills.
+<br> I am a Unity game developer passionate about creating games that are not only fun but also meaningful.  
+I believe that games can be powerful tools for learning, problem-solving, and personal growth.  
+My goal is to develop experiences that **engage, educate, and inspire** players while keeping them entertained.
 
 ## 🎮 Featured Projects
 ### 🐵Monkey Cooking 2D Game: "Huhu-Huawh!"
-- 🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**
+This project is part of the GI383 Idea Generation course in the 3rd year, 2nd semester.
+<br> 🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**, 📺 **[Prototype](https://drive.google.com/drive/folders/1_GMCltrAO_UVvD2kRtQFPWKDfZCt8_m0?usp=sharing)**
 - **Genre:** Mimi-Simuration 
 - **Features:** Drag&Drop, Alchemy&Transform, Time Management  
 - **Tech:** Unity, C#
-- **Role:** Main Programmer
+- **Role:** Main Developer
 
 ## 🛠️ Skills & Tools  
 - 🎮 **Game Engine:** Unity (Intermediate)  
