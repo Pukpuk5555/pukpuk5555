@@ -9,18 +9,21 @@ I believe that games can be powerful tools for learning, problem-solving, and pe
 My goal is to develop experiences that **engage, educate, and inspire** players while keeping them entertained.
 
 ## 🎮 Featured Projects
-### 🐵Monkey Cooking 2D Game: "Huhu-Huawh!"
-This project is part of the GI383 Idea Generation course in the 3rd year, 2nd semester.
-<br> 🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**, 📑 **[GDD](https://docs.google.com/spreadsheets/d/15tPipG-mRfUMZ8x1WUuvt8T3DsfONBVqzJjid0tHkHk/edit?usp=sharing)**, 📺 **[Prototype](https://drive.google.com/drive/folders/1_GMCltrAO_UVvD2kRtQFPWKDfZCt8_m0?usp=sharing)**
+### 🐵**Huhu-Huawh!** : Monkey Cooking 2D Game
+🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**
 - **Genre:** Mimi-Simuration 
 - **Features:** Drag&Drop, Alchemy&Transform, Time Management  
 - **Tech:** Unity, C#
 - **Role:** Main Developer
 
+### 🍔**Fast Food** : 2D Nightmare Calories Platformer
+🕹️ **[Git Repository](https://github.com/Pukpuk5555/fast-food.git)**
+
+
 ## 🛠️ Skills & Tools  
 - 🎮 **Game Engine:** Unity (Intermediate)  
-- 💻 **Programming:** C# (Intermediate), Shader Graph (Beginner)
-- 🎨 **VFX & Animation:** Particle System (Beginner), Timeline (Beginner)
+- 💻 **Programming:** C# (Intermediate) 
+- 🎨 **VFX & Animation:** Particle System (Beginner), Shader Graph (Beginner), Timeline (Beginner)
 - 🛠️ **Tools:** Git (Intermediate), Blender & Maya (Beginner), Figma (Beginner) 
 
 ### 🚀 **Skills in Progress**  
