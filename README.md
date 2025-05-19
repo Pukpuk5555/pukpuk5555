@@ -36,6 +36,12 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 <br>**Role:** Main Unity Developer
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/fast-food.git)**
 
+### 🪅My First and Only 3D Low-Poly Model I’m Proud Of
+**Course:** GI231 — 3D Modeling (Year 3, Semester 2)
+<br> **Tool:** Maya  |  **Style:** Low Poly
+- I took this class out of curiosity—I wanted to explore what 3D modeling would be like. It seemed fun at first, but once I started working on the project, I realized that it wasn’t my strength. Even so, I committed to finishing it with my best effort.
+This experience taught me about my own limits, helped me discover what I don’t enjoy, and reminded me that dedication matters even when the path gets tough.
+<br> **[YouTube Link](https://youtu.be/AaHJj0HNgmk?si=o85sGQy8jTF2Mt3W)**
 
 ## 🛠️ Skills & Tools  
 - 🎮 **Game Engine:** Unity (Intermediate)  
