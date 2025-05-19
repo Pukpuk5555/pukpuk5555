@@ -9,7 +9,7 @@ I believe that games can be powerful tools for learning, problem-solving, and pe
 My goal is to develop experiences that **engage, educate, and inspire** players while keeping them entertained.
 
 ## 🎮 Featured Projects
-### 🧩**Little Match** : Winter Survival Board Game
+### 🧩**Little Match** : Winter Survival Board Game — 2022
 **Genre:** Survival
 <br> **Features:** PvP, Push-your-luck, Strategy
 <br> **Role:** Game Design & Developer
@@ -20,28 +20,44 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 - Collaborated with friends for playtesting and feedback
 <br>🕹️ **[My Journey](https://www.canva.com/design/DAGnnmyQ2mQ/_RlDBMDkDQMhWY9xNx3hSQ/edit?utm_content=DAGnnmyQ2mQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**, 📑 **[Rule Book](https://www.canva.com/design/DAFiDBT72hM/MoXGtaNiMqAAIUUEso4PMA/edit?utm_content=DAFiDBT72hM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
+### 🪖**Fortress Defenders** : Tower Defense Clicker Game — 2024
+**Genre:** Tower Defense / Clicker 
+<br>**Features:** Point-and-Click Combat, Wave-Based Enemy Spawning, Power-Up Drops 
+<br>**Tech:** Unity, C#
+<br>**Role:** Support Developer
+<br>**Responsibility:**
+- Developed UI for power-ups dropped by enemies
+- Implemented behaviors and visual effects for power-ups
+- Integrated Unity Ads for mobile version as part of a mobile development course
+<br>🕹️ **[Project Link](https://arthiddech.itch.io/fort)**
 
-### 🐵**Huhu-Huawh!** : 2D Monkey Cooking Game
+### 🐵**Huhu-Huawh!** : 2D Monkey Cooking Game — 2025
 **Genre:** Mimi-Simuration 
 <br>**Features:** Drag&Drop, Alchemy&Transform, Time Management  
 **Tech:** Unity, C#
 <br>**Role:** Main Unity Developer
+<br>**Responsibility:**
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**
 
 
-### 🍔**Fast Food** : 2D Nightmare Calories Platformer
+### 🍔**Fast Food** : 2D Nightmare Calories Platformer — 2025
 **Genre:** 2D Platformer, Survival Escape 
 <br>**Features:** Weight Machanic, Trap-Based Level Design, Item Choices  
 **Tech:** Unity, C#
 <br>**Role:** Main Unity Developer
+<br>**Responsibility:**
+- Designed core gameplay mechanics: food traps, body transformation system, and enemy behavior
+- Implemented player movement and interaction with hazards using C#
+- Created custom animations and transitions that reflect the character’s changing body shape
+- Developed UI and feedback system to reflect player condition
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/fast-food.git)**
 
-### 🪅My First and Only 3D Low-Poly Model I’m Proud Of
+### 🪅My First and Only 3D Low-Poly Model I’m Proud Of — 2024
 **Course:** GI231 — 3D Modeling (Year 3, Semester 2)
 <br> **Tool:** Maya  |  **Style:** Low Poly
 - I took this class out of curiosity—I wanted to explore what 3D modeling would be like. It seemed fun at first, but once I started working on the project, I realized that it wasn’t my strength. Even so, I committed to finishing it with my best effort.
 This experience taught me about my own limits, helped me discover what I don’t enjoy, and reminded me that dedication matters even when the path gets tough.
-<br> **[YouTube Link](https://youtu.be/AaHJj0HNgmk?si=o85sGQy8jTF2Mt3W)**
+<br> 🔗 **[YouTube Link](https://youtu.be/AaHJj0HNgmk?si=o85sGQy8jTF2Mt3W)**
 
 ## 🛠️ Skills & Tools  
 - 🎮 **Game Engine:** Unity (Intermediate)  
