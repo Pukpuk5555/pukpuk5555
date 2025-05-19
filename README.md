@@ -41,15 +41,16 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 
 
 ### 🍔**Fast Food** : 2D Nightmare Calories Platformer — 2025
-**Genre:** 2D Platformer, Survival Escape 
-<br>**Features:** Weight Machanic, Trap-Based Level Design, Item Choices  
+**Role:** Main Unity Developer | **Genre:** 2D Platformer, Survival Escape | **Features:** Weight Machanic, Trap-Based Level Design, Item Choices
+<br>**Status:** Playable prototype (core gameplay complete, SFX and additional levels planned)
 **Tech:** Unity, C#
-<br>**Role:** Main Unity Developer
+<br>**Description:** a 2D platformer where players must escape a dream world filled with dangerous food traps. I proposed and designed the core concept: food influences the character’s body and abilities. Consuming junk food causes the character to become heavier and slower, while healthy food makes the character more agile. This mechanic is not only fun but also delivers a subtle educational message about the impact of nutrition.
 <br>**Responsibility:**
-- Designed core gameplay mechanics: food traps, body transformation system, and enemy behavior
+- Proposed the core idea and designed key mechanics based on food effects
 - Implemented player movement and interaction with hazards using C#
 - Created custom animations and transitions that reflect the character’s changing body shape
 - Developed UI and feedback system to reflect player condition
+- Integrated Unity Analytics to track player behavior and session data
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/fast-food.git)**
 
 ### 🪅My First and Only 3D Low-Poly Model I’m Proud Of — 2024
