@@ -10,10 +10,11 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 
 ## 🎮 Featured Projects
 ### 🧩**Little Match** : Winter Survival Board Game — 2022
-**Genre:** Survival
-<br> **Features:** PvP, Push-your-luck, Strategy
-<br> **Role:** Game Design & Developer
-<br> **Responsibility:**
+**Role:** Game Design & Developer
+<br>**Genre:** Survival
+<br>**Features:** PvP, Push-your-luck, Strategy
+
+**Responsibility:**
 - Designed the core gameplay system and balanced player interactions
 - Created all visual assets including board, cards, icons, and overall visual design as part of a team board game project
 - Wrote the full rulebook and managed user testing
@@ -28,31 +29,42 @@ This experience taught me about my own limits, helped me discover what I don’t
 <br> 🔗 **[YouTube Link](https://youtu.be/AaHJj0HNgmk?si=o85sGQy8jTF2Mt3W)**
 
 ### 🪖**Fortress Defenders** : Tower Defense Clicker Game — 2024
-**Genre:** Tower Defense / Clicker 
+**Role:** Support Developer
+<br>**Genre:** Tower Defense / Clicker 
 <br>**Features:** Point-and-Click Combat, Wave-Based Enemy Spawning, Power-Up Drops 
 <br>**Tech:** Unity, C#
-<br>**Role:** Support Developer
-<br>**Responsibility:**
+<br>**Status:** Playable Prototype
+
+**Responsibility:**
 - Developed UI for power-ups dropped by enemies
 - Implemented behaviors and visual effects for power-ups
 - Integrated Unity Ads for mobile version as part of a mobile development course
 <br>🕹️ **[Project Link](https://arthiddech.itch.io/fort)**
 
 ### 🐵**Huhu-Huawh!** : 2D Monkey Cooking Game — 2025
-**Genre:** Mimi-Simuration 
+**Role:** Main Unity Developer
+<br>**Genre:** Mimi-Simuration 
 <br>**Features:** Drag&Drop, Alchemy&Transform, Time Management  
 **Tech:** Unity, C#
-<br>**Role:** Main Unity Developer
-<br>**Responsibility:**
+
+**Responsibility:**
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**
 
 
 ### 🍔**Fast Food** : 2D Nightmare Calories Platformer — 2025
-**Role:** Main Unity Developer | **Genre:** 2D Platformer, Survival Escape | **Features:** Weight Machanic, Trap-Based Level Design, Item Choices
+**Role:** Main Unity Developer
+<br>**Genre:** 2D Platformer, Survival Escape
+<br>**Features:** Weight Machanic, Trap-Based Level Design, Item Choices
+<br>**Tech:** Unity, C#
 <br>**Status:** Playable prototype (core gameplay complete, SFX and additional levels planned)
-**Tech:** Unity, C#
-<br>**Description:** a 2D platformer where players must escape a dream world filled with dangerous food traps. I proposed and designed the core concept: food influences the character’s body and abilities. Consuming junk food causes the character to become heavier and slower, while healthy food makes the character more agile. This mechanic is not only fun but also delivers a subtle educational message about the impact of nutrition.
-<br>**Responsibility:**
+<br>
+<br>**Game Concept**
+<br>A 2D platformer where players must escape a dream world filled with dangerous food traps. I proposed and designed the core concept: food affects the character’s body and abilities.
+- 🍔 Eating junk food = character becomes heavier and slower
+- 🥗 Eating healthy food = character becomes lighter and more agile
+<br>This mechanic is not only fun but also delivers a subtle educational message about the impact of nutrition.
+
+**Responsibility:**
 - Proposed the core idea and designed key mechanics based on food effects
 - Implemented player movement and interaction with hazards using C#
 - Created custom animations and transitions that reflect the character’s changing body shape
