@@ -53,9 +53,6 @@ This experience taught me about my own limits, helped me discover what I don’t
 <br>**Features:** Drag&Drop, Alchemy&Transform, Time Management  
 **Tech:** Unity, C#
 <br>**Status:** Core systems complete; customer behavior system in progress
-<br>
-<br>**Game Concept**
-<br>In a prehistoric world, the first monkey to evolve seeks to help its fellow monkeys grow by opening a humble restaurant. Players take on the role of this visionary monkey chef, preparing and serving food to fulfill specific orders. Each dish contributes to the physical development of the monkey customers, helping them evolve. The goal is to run the restaurant successfully, promote healthy eating, and build a reputation that spans from the Stone Age to the modern era.
 
 **Responsibility:**
 - Developed the full food system: ingredient selection, cooking, and serving logic
@@ -71,12 +68,6 @@ This experience taught me about my own limits, helped me discover what I don’t
 <br>**Features:** Weight Machanic, Trap-Based Level Design, Item Choices
 <br>**Tech:** Unity, C#
 <br>**Status:** Playable prototype (core gameplay complete, SFX and additional levels planned)
-<br>
-<br>**Game Concept**
-<br>A 2D platformer where players must escape a dream world filled with dangerous food traps. I proposed and designed the core concept: food affects the character’s body and abilities.
-- 🍔 Eating junk food = character becomes heavier and slower
-- 🥗 Eating healthy food = character becomes lighter and more agile
-<br>This mechanic is not only fun but also delivers a subtle educational message about the impact of nutrition.
 
 **Responsibility:**
 - Proposed the core idea and designed key mechanics based on food effects
