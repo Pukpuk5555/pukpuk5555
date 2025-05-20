@@ -20,6 +20,13 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 - Collaborated with friends for playtesting and feedback
 <br>🕹️ **[My Journey](https://www.canva.com/design/DAGnnmyQ2mQ/_RlDBMDkDQMhWY9xNx3hSQ/edit?utm_content=DAGnnmyQ2mQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**, 📑 **[Rule Book](https://www.canva.com/design/DAFiDBT72hM/MoXGtaNiMqAAIUUEso4PMA/edit?utm_content=DAFiDBT72hM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
+### 🪅My First and Only 3D Low-Poly Model I’m Proud Of — 2024
+**Course:** GI231 — 3D Modeling (Year 3, Semester 2)
+<br> **Tool:** Maya  |  **Style:** Low Poly
+- I took this class out of curiosity—I wanted to explore what 3D modeling would be like. It seemed fun at first, but once I started working on the project, I realized that it wasn’t my strength. Even so, I committed to finishing it with my best effort.
+This experience taught me about my own limits, helped me discover what I don’t enjoy, and reminded me that dedication matters even when the path gets tough.
+<br> 🔗 **[YouTube Link](https://youtu.be/AaHJj0HNgmk?si=o85sGQy8jTF2Mt3W)**
+
 ### 🪖**Fortress Defenders** : Tower Defense Clicker Game — 2024
 **Genre:** Tower Defense / Clicker 
 <br>**Features:** Point-and-Click Combat, Wave-Based Enemy Spawning, Power-Up Drops 
@@ -52,13 +59,6 @@ My goal is to develop experiences that **engage, educate, and inspire** players 
 - Developed UI and feedback system to reflect player condition
 - Integrated Unity Analytics to track player behavior and session data
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/fast-food.git)**
-
-### 🪅My First and Only 3D Low-Poly Model I’m Proud Of — 2024
-**Course:** GI231 — 3D Modeling (Year 3, Semester 2)
-<br> **Tool:** Maya  |  **Style:** Low Poly
-- I took this class out of curiosity—I wanted to explore what 3D modeling would be like. It seemed fun at first, but once I started working on the project, I realized that it wasn’t my strength. Even so, I committed to finishing it with my best effort.
-This experience taught me about my own limits, helped me discover what I don’t enjoy, and reminded me that dedication matters even when the path gets tough.
-<br> 🔗 **[YouTube Link](https://youtu.be/AaHJj0HNgmk?si=o85sGQy8jTF2Mt3W)**
 
 ## 🛠️ Skills & Tools  
 - 🎮 **Game Engine:** Unity (Intermediate)  
