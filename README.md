@@ -49,10 +49,10 @@ This experience taught me about my own limits, helped me discover what I don’t
 
 ### 🐵**Huhu-Huawh!** : 2D Monkey Cooking Game — 2025
 **Role:** Main Unity Developer
-<br>**Genre:** Mimi-Simuration 
+<br>**Genre:** Mimi-Simulation 
 <br>**Features:** Drag&Drop, Alchemy&Transform, Time Management  
 **Tech:** Unity, C#
-<br>**Status:** Core systems complete; customer behavior system in progress
+<br>**Status:** Core systems complete; customer behavior system in development
 
 **Responsibility:**
 - Developed the full food system: ingredient selection, cooking, and serving logic
@@ -65,7 +65,7 @@ This experience taught me about my own limits, helped me discover what I don’t
 ### 🍔**Fast Food** : 2D Nightmare Calories Platformer — 2025
 **Role:** Main Unity Developer
 <br>**Genre:** 2D Platformer, Survival Escape
-<br>**Features:** Weight Machanic, Trap-Based Level Design, Item Choices
+<br>**Features:** Weight Mechanic, Trap-Based Level Design, Item Choices
 <br>**Tech:** Unity, C#
 <br>**Status:** Playable prototype (core gameplay complete, SFX and additional levels planned)
 
