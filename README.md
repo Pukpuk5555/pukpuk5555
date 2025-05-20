@@ -1,8 +1,8 @@
-# 👋 Hi! 
+# Hi! 
 
-## 🧃 About Me
+## About Me🧃
 ### 🍒Who I Am
-Hi! I’m Satang (Jidapa Petchkamnerd), a Thai student currently studying Game and Interactive Media at the School of Information Technology and Innovation, Bangkok University.
+I’m Satang (Jidapa Petchkamnerd), a Thai student currently studying Game and Interactive Media at the School of Information Technology and Innovation, Bangkok University.
 
 ### ⭐My Passion
 I’m a Unity game developer passionate about building games that are not only fun to play but also meaningful. I believe that games can be more than entertainment — they can be tools for learning, reflection, and personal growth.
@@ -15,6 +15,10 @@ I enjoy exploring new technologies, experimenting with gameplay mechanics, and c
 **Role:** Game Design & Developer
 <br>**Genre:** Survival
 <br>**Features:** PvP, Push-your-luck, Strategy
+<br>**Status:** Completed prototype – ready for further development and refinement
+<br>
+<br>**Game Concept**
+<br>a survival-themed card-based board game set in a harsh, unforgiving winter. Each player takes on the role of a fragile matchstick fighting to survive through snowstorms, icy winds, and brutal challenges with only a handful of resources. Using strategic thinking, players must protect themselves from environmental threats, manage limited items, and outlast others in a game where the last match standing wins.
 
 **Responsibility:**
 - Designed the core gameplay system and balanced player interactions
