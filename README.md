@@ -78,10 +78,20 @@ This experience taught me about my own limits, helped me discover what I don’t
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/fast-food.git)**
 
 ## 🛠️ Skills & Tools  
+
+### Technical Skills
 - 🎮 **Game Engine:** Unity (Intermediate)  
 - 💻 **Programming:** C# (Intermediate) 
 - 🎨 **VFX & Animation:** Particle System (Beginner), Shader Graph (Beginner), Timeline (Beginner)
-- 🛠️ **Tools:** Git (Intermediate), Blender & Maya (Beginner), Figma (Beginner) 
+- 🛠️ **Tools:** Git (Intermediate), Blender & Maya (Beginner), Figma (Beginner)
+
+### Soft Skills
+- Problem Solving
+- Adaptable and Open to Feedback
+- Eager to learn and Improve
+- Communication & Team Collaboration
+- Time Management
+- Creativity in Game Design 
 
 ### 🚀 **Skills in Progress**  
 *(Currently Learning & Improving)*  
