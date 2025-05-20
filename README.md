@@ -1,13 +1,13 @@
 # Hi! 
 
 ## About Me🧃
-### 🍒Who I Am
+### Who I Am
 I’m Satang (Jidapa Petchkamnerd), a Thai student currently studying Game and Interactive Media at the School of Information Technology and Innovation, Bangkok University.
 
-### ⭐My Passion
+### My Passion
 I’m a Unity game developer passionate about building games that are not only fun to play but also meaningful. I believe that games can be more than entertainment — they can be tools for learning, reflection, and personal growth.
 
-### 💻What I Love Doing
+### What I Love Doing
 I enjoy exploring new technologies, experimenting with gameplay mechanics, and constantly improving my skills through hands-on projects. My goal is to create interactive experiences that engage, educate, and inspire players.
 
 ## 🎮 Featured Projects
