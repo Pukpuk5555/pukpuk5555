@@ -46,8 +46,16 @@ This experience taught me about my own limits, helped me discover what I don’t
 <br>**Genre:** Mimi-Simuration 
 <br>**Features:** Drag&Drop, Alchemy&Transform, Time Management  
 **Tech:** Unity, C#
+<br>**Status:** Core systems complete; customer behavior system in progress
+<br>
+<br>**Game Concept**
+<br>In a prehistoric world, the first monkey to evolve seeks to help its fellow monkeys grow by opening a humble restaurant. Players take on the role of this visionary monkey chef, preparing and serving food to fulfill specific orders. Each dish contributes to the physical development of the monkey customers, helping them evolve. The goal is to run the restaurant successfully, promote healthy eating, and build a reputation that spans from the Stone Age to the modern era.
 
 **Responsibility:**
+- Developed the full food system: ingredient selection, cooking, and serving logic
+- Built an interactive UI and feedback system to show cooking progress and results
+- Implemented a customer satisfaction condition that reflects dish accuracy and performance
+- Created cutscenes to introduce the game world and add charm to the monkey chef
 <br>🕹️ **[Git Repository](https://github.com/Pukpuk5555/huhu-hauwh.git)**
 
 
